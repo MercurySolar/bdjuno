@@ -4,6 +4,7 @@ go 1.15
 
 require (
 	github.com/cosmos/cosmos-sdk v0.44.1
+	github.com/cosmos/ibc-go v1.2.1 // indirect
 	github.com/desmos-labs/juno v0.0.0-20211005090705-514187767199
 	github.com/go-co-op/gocron v0.3.3
 	github.com/gogo/protobuf v1.3.3
@@ -17,7 +18,6 @@ require (
 	github.com/umee-network/umee v0.2.1 // indirect
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	google.golang.org/grpc v1.41.0
-	github.com/cosmos/ibc-go/modules/core@v1.2.1
 )
 
 replace (
