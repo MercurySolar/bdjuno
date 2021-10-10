@@ -17,6 +17,7 @@ require (
 	github.com/umee-network/umee v0.2.1 // indirect
 	github.com/ziutek/mymysql v1.5.4 // indirect
 	google.golang.org/grpc v1.41.0
+	github.com/cosmos/ibc-go/modules/core@v1.2.1
 )
 
 replace (
